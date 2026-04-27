@@ -1,7 +1,9 @@
-.foto{
+.foto {
     width: 54%
 }
 
-body{
-    background-color: aquamarine;
+body {
+    background-color: rgb(28, 191, 137);
+    display: flex;
+
 }
