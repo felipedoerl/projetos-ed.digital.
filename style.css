@@ -13,3 +13,12 @@ div{
     margin: 18px;
     padding: 18px;
 }
+a{
+    color: white;
+    border: white 5px;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+}
